@@ -26,7 +26,7 @@ The E-Commerce Grocery and Food Delivery Web Application is a comprehensive onli
 - The system maintains a comprehensive order history for users to reference their previous purchases.
 - Real-time order tracking enhances transparency, allowing users to monitor the status of their deliveries.
 
-## Menu Item Requirements
+## AWS Services used
 
 ### Compute
 
